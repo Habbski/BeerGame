@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.container > img {
+    margin: 80px;
+}
+
+.text {
+    font-size: 50px;
+    text-align: center;
+}
